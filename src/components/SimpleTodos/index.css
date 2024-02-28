@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  background-color: #ffc2a0;
+  text-align: center;
+  color: #000000;
+  background-size: cover;
+}
+.card-container {
+  background-color: #ffffff;
+  text-align: center;
+  margin: 16px;
+}
+.heading {
+  color: #ff8542;
+  font-size: 24px;
+}
